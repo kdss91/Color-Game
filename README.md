@@ -13,4 +13,4 @@ Easy mode contains 3 randomly generated colors.
 
 ###Please see below screenshot of the application.
 
-![]App.JPG
+![](App.JPG)
