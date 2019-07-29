@@ -9,8 +9,8 @@ Hard mode contains 6 randomly generated colors.
 Easy mode contains 3 randomly generated colors.
 
 
-##[Click here to view application](https://color-game-by-karan.herokuapp.com/)
+## [Click here to view application](https://color-game-by-karan.herokuapp.com/)
 
-###Please see below screenshot of the application.
+### Please see below screenshot of the application.
 
 ![](App.JPG)
